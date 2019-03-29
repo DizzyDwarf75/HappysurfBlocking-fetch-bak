@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/HappysurfBlocking/fetch-bak",
+	"ImportPath": "github.com/DizzyDwarf75/HappysurfBlocking-fetch-bak",
 	"GoVersion": "go1.6",
 	"Packages": [
 		"./..."
